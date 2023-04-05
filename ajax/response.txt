@@ -1,0 +1,6 @@
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2023-04-02T22:00:23Z
+    [hostname] => localhost
+)
